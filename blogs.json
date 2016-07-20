@@ -1,1 +1,15 @@
-{ "articles":["test.md","test1.md"] }
+{
+ "articles":[ 
+ {
+	"id":1,
+	"title":"test",
+	"content":"test",
+	"updateDate":"16/7/20",
+}, {
+	"id":2,
+	"title":"test2",
+	"content":"test2",
+	"updateDate":"16/7/20",
+}] 
+
+}
