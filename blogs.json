@@ -2,13 +2,17 @@
  "articles":[ 
  {
 	"id":1,
-	"title":"test",
-	"content":"test",
+	"thumbnailSrc": "",
+	"title":"这是一篇示例博客范文",
+	"content":"您现在看到的是一篇示例性质的博客范文。",
+	"realname":"",
 	"updateDate":"16/7/20"
 }, {
 	"id":2,
-	"title":"test2",
-	"content":"test2",
+	"thumbnailSrc": "",
+	"title":"这是一篇示例博客范文2",
+	"content":"您现在看到的是一篇示例性质的博客范文2。",
+	"realname":"",
 	"updateDate":"16/7/20"
 }] 
 
